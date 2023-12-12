@@ -2,3 +2,8 @@ gombis.it
 .gombis.it
 dinorunner.com
 .dinorunner.com
+127.0.0.1 gombis.it
+127.0.0.1 .gombis.it
+127.0.0.1 dinorunner.com
+127.0.0.1 .dinorunner.com
+
