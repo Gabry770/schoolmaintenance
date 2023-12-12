@@ -2,8 +2,28 @@ gombis.it
 .gombis.it
 dinorunner.com
 .dinorunner.com
+playfootball.games
+.playfootball.games
+geometrydash.io
+.geometrydash.io
+1v1lolunblocked.org
+.1v1lolunblocked.org
+justbuild.lol
+.justbuild.lol
+missing11.com
+.missing11.com
 127.0.0.1 gombis.it
 127.0.0.1 .gombis.it
 127.0.0.1 dinorunner.com
 127.0.0.1 .dinorunner.com
+127.0.0.1 playfootball.games
+127.0.0.1 .playfootball.games
+127.0.0.1 geometrydash.io
+127.0.0.1 .geometrydash.io
+127.0.0.1 1v1lolunblocked.org
+127.0.0.1 .1v1lolunblocked.org
+127.0.0.1 justbuild.lol
+127.0.0.1 .justbuild.lol
+127.0.0.1 missing11.com
+127.0.0.1 .missing11.com
 
